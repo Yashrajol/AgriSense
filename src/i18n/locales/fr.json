@@ -1,0 +1,107 @@
+{
+  "app": {
+    "title": "AgriSense",
+    "subtitle": "Informations alimentées par la NASA pour une agriculture durable",
+    "welcome": "Bienvenue dans AgriSense"
+  },
+  "navigation": {
+    "dashboard": "Tableau de bord",
+    "advisory": "Conseil",
+    "weather": "Météo",
+    "crops": "Prédicteur de Cultures",
+    "planner": "Planificateur de Plantes",
+    "community": "Communauté",
+    "diary": "Journal",
+    "analytics": "Analytiques",
+    "education": "Éducation",
+    "contact": "Nous Contacter",
+    "games": "Jeux de Ferme",
+    "achievements": "Réalisations"
+  },
+  "weather": {
+    "title": "Données Terrestres de la NASA",
+    "soilMoisture": "Humidité du Sol",
+    "temperature": "Température",
+    "precipitation": "Précipitation",
+    "lastUpdated": "Dernière mise à jour",
+    "dataSource": "Source de données : NASA SMAP, MODIS, POWER APIs",
+    "hot": "Chaud",
+    "warm": "Doux",
+    "cool": "Frais",
+    "last7Days": "7 derniers jours"
+  },
+  "games": {
+    "title": "Jeux et Apprentissage de Ferme",
+    "cropQuiz": "Quiz de Connaissance des Cultures",
+    "weatherChallenge": "Défi de Prédiction Météo",
+    "farmingSimulator": "Simulateur de Ferme",
+    "plantIdentification": "Jeu d'Identification de Plantes",
+    "harvestCalculator": "Jeu Calculateur de Récolte"
+  },
+  "achievements": {
+    "title": "Vos Réalisations",
+    "firstLogin": "Premiers Pas",
+    "weatherExpert": "Expert Météo",
+    "cropMaster": "Maître des Cultures",
+    "communityHelper": "Aide Communautaire",
+    "dataAnalyst": "Analyste de Données",
+    "description": "Complétez des tâches pour débloquer des réalisations et gagner des points !"
+  },
+  "funFacts": {
+    "title": "Le Saviez-vous ?",
+    "fact1": "Un seul plant de maïs peut avoir jusqu'à 600 grains !",
+    "fact2": "Les tomates sont en fait des fruits, pas des légumes !",
+    "fact3": "La plus grosse citrouille du monde pesait plus de 2 600 livres !",
+    "fact4": "Les abeilles sont responsables de la pollinisation d'1/3 des cultures alimentaires mondiales !",
+    "fact5": "Le riz est cultivé dans l'eau car cela aide à contrôler les mauvaises herbes et les ravageurs !"
+  },
+  "successStories": {
+    "title": "Histoires de Succès d'Agriculteurs",
+    "subtitle": "Vrais agriculteurs, vrais résultats avec AgriSense",
+    "story1": {
+      "title": "Augmentation du Rendement de 30%",
+      "description": "L'agriculteur Raj a utilisé nos prédictions météo pour optimiser son planning de plantation et a augmenté son rendement de riz de 30% !"
+    },
+    "story2": {
+      "title": "Économisé Eau et Argent",
+      "description": "Maria a réduit son utilisation d'eau de 25% en utilisant notre système de surveillance de l'humidité du sol."
+    },
+    "story3": {
+      "title": "Meilleure Santé des Cultures",
+      "description": "Ahmed a prévenu les maladies des cultures en suivant nos alertes de conseil et a sauvé toute sa récolte."
+    }
+  },
+  "tutorials": {
+    "title": "Tutoriels Interactifs",
+    "subtitle": "Apprenez les techniques agricoles étape par étape",
+    "soilTesting": "Comment Tester la Qualité du Sol",
+    "plantingGuide": "Meilleures Pratiques de Plantation",
+    "irrigationTips": "Méthodes d'Irrigation Intelligente",
+    "pestControl": "Contrôle Naturel des Ravageurs",
+    "harvesting": "Moment Optimal de Récolte"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "signIn": "Se Connecter",
+    "signOut": "Se Déconnecter",
+    "profile": "Profil",
+    "settings": "Paramètres",
+    "language": "Langue",
+    "points": "Points",
+    "level": "Niveau",
+    "nextLevel": "Niveau Suivant",
+    "progress": "Progrès",
+    "play": "Jouer",
+    "learn": "Apprendre",
+    "share": "Partager",
+    "continue": "Continuer",
+    "start": "Commencer",
+    "complete": "Compléter",
+    "congratulations": "Félicitations !",
+    "wellDone": "Bien joué !",
+    "tryAgain": "Réessayer",
+    "next": "Suivant",
+    "previous": "Précédent",
+    "close": "Fermer"
+  }
+}

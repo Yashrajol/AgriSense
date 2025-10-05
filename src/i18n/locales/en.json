@@ -1,0 +1,107 @@
+{
+  "app": {
+    "title": "AgriSense",
+    "subtitle": "NASA-Powered Insights for Sustainable Farming",
+    "welcome": "Welcome to AgriSense"
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "advisory": "Advisory",
+    "weather": "Weather",
+    "crops": "Crop Predictor",
+    "planner": "Plant Planner",
+    "community": "Community",
+    "diary": "Diary",
+    "analytics": "Analytics",
+    "education": "Education",
+    "contact": "Contact Us",
+    "games": "Farm Games",
+    "achievements": "Achievements"
+  },
+  "weather": {
+    "title": "NASA Earth Data",
+    "soilMoisture": "Soil Moisture",
+    "temperature": "Temperature",
+    "precipitation": "Precipitation",
+    "lastUpdated": "Last updated",
+    "dataSource": "Data source: NASA SMAP, MODIS, POWER APIs",
+    "hot": "Hot",
+    "warm": "Warm",
+    "cool": "Cool",
+    "last7Days": "Last 7 days"
+  },
+  "games": {
+    "title": "Farm Games & Learning",
+    "cropQuiz": "Crop Knowledge Quiz",
+    "weatherChallenge": "Weather Prediction Challenge",
+    "farmingSimulator": "Farming Simulator",
+    "plantIdentification": "Plant Identification Game",
+    "harvestCalculator": "Harvest Calculator Game"
+  },
+  "achievements": {
+    "title": "Your Achievements",
+    "firstLogin": "First Steps",
+    "weatherExpert": "Weather Expert",
+    "cropMaster": "Crop Master",
+    "communityHelper": "Community Helper",
+    "dataAnalyst": "Data Analyst",
+    "description": "Complete tasks to unlock achievements and earn points!"
+  },
+  "funFacts": {
+    "title": "Did You Know?",
+    "fact1": "A single corn plant can have up to 600 kernels!",
+    "fact2": "Tomatoes are actually fruits, not vegetables!",
+    "fact3": "The world's largest pumpkin weighed over 2,600 pounds!",
+    "fact4": "Bees are responsible for pollinating 1/3 of the world's food crops!",
+    "fact5": "Rice is grown in water because it helps control weeds and pests!"
+  },
+  "successStories": {
+    "title": "Farmer Success Stories",
+    "subtitle": "Real farmers, real results with AgriSense",
+    "story1": {
+      "title": "Increased Yield by 30%",
+      "description": "Farmer Raj used our weather predictions to optimize his planting schedule and increased his rice yield by 30%!"
+    },
+    "story2": {
+      "title": "Saved Water & Money",
+      "description": "Maria reduced her water usage by 25% using our soil moisture monitoring system."
+    },
+    "story3": {
+      "title": "Better Crop Health",
+      "description": "Ahmed prevented crop diseases by following our advisory alerts and saved his entire harvest."
+    }
+  },
+  "tutorials": {
+    "title": "Interactive Tutorials",
+    "subtitle": "Learn farming techniques step by step",
+    "soilTesting": "How to Test Soil Quality",
+    "plantingGuide": "Best Planting Practices",
+    "irrigationTips": "Smart Irrigation Methods",
+    "pestControl": "Natural Pest Control",
+    "harvesting": "Optimal Harvesting Time"
+  },
+  "common": {
+    "loading": "Loading...",
+    "signIn": "Sign In",
+    "signOut": "Sign Out",
+    "profile": "Profile",
+    "settings": "Settings",
+    "language": "Language",
+    "points": "Points",
+    "level": "Level",
+    "nextLevel": "Next Level",
+    "progress": "Progress",
+    "play": "Play",
+    "learn": "Learn",
+    "share": "Share",
+    "continue": "Continue",
+    "start": "Start",
+    "complete": "Complete",
+    "congratulations": "Congratulations!",
+    "wellDone": "Well done!",
+    "tryAgain": "Try Again",
+    "next": "Next",
+    "previous": "Previous",
+    "close": "Close"
+  }
+}

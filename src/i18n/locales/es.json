@@ -1,0 +1,107 @@
+{
+  "app": {
+    "title": "AgriSense",
+    "subtitle": "Información impulsada por la NASA para una agricultura sostenible",
+    "welcome": "Bienvenido a AgriSense"
+  },
+  "navigation": {
+    "dashboard": "Panel",
+    "advisory": "Asesoría",
+    "weather": "Clima",
+    "crops": "Predicción de Cultivos",
+    "planner": "Planificador de Plantas",
+    "community": "Comunidad",
+    "diary": "Diario",
+    "analytics": "Análisis",
+    "education": "Educación",
+    "contact": "Contáctanos",
+    "games": "Juegos de Granja",
+    "achievements": "Logros"
+  },
+  "weather": {
+    "title": "Datos de la Tierra de la NASA",
+    "soilMoisture": "Humedad del Suelo",
+    "temperature": "Temperatura",
+    "precipitation": "Precipitación",
+    "lastUpdated": "Última actualización",
+    "dataSource": "Fuente de datos: NASA SMAP, MODIS, POWER APIs",
+    "hot": "Caliente",
+    "warm": "Templado",
+    "cool": "Fresco",
+    "last7Days": "Últimos 7 días"
+  },
+  "games": {
+    "title": "Juegos y Aprendizaje de Granja",
+    "cropQuiz": "Quiz de Conocimiento de Cultivos",
+    "weatherChallenge": "Desafío de Predicción del Clima",
+    "farmingSimulator": "Simulador de Granja",
+    "plantIdentification": "Juego de Identificación de Plantas",
+    "harvestCalculator": "Juego Calculadora de Cosecha"
+  },
+  "achievements": {
+    "title": "Tus Logros",
+    "firstLogin": "Primeros Pasos",
+    "weatherExpert": "Experto en Clima",
+    "cropMaster": "Maestro de Cultivos",
+    "communityHelper": "Ayudante de la Comunidad",
+    "dataAnalyst": "Analista de Datos",
+    "description": "¡Completa tareas para desbloquear logros y ganar puntos!"
+  },
+  "funFacts": {
+    "title": "¿Sabías que?",
+    "fact1": "¡Una sola planta de maíz puede tener hasta 600 granos!",
+    "fact2": "¡Los tomates son en realidad frutas, no verduras!",
+    "fact3": "¡La calabaza más grande del mundo pesó más de 2,600 libras!",
+    "fact4": "¡Las abejas son responsables de polinizar 1/3 de los cultivos alimentarios del mundo!",
+    "fact5": "¡El arroz se cultiva en agua porque ayuda a controlar malezas y plagas!"
+  },
+  "successStories": {
+    "title": "Historias de Éxito de Agricultores",
+    "subtitle": "Agricultores reales, resultados reales con AgriSense",
+    "story1": {
+      "title": "Aumentó el Rendimiento en 30%",
+      "description": "¡El agricultor Raj usó nuestras predicciones climáticas para optimizar su horario de siembra y aumentó su rendimiento de arroz en 30%!"
+    },
+    "story2": {
+      "title": "Ahorró Agua y Dinero",
+      "description": "María redujo su uso de agua en 25% usando nuestro sistema de monitoreo de humedad del suelo."
+    },
+    "story3": {
+      "title": "Mejor Salud de Cultivos",
+      "description": "Ahmed previno enfermedades de cultivos siguiendo nuestras alertas de asesoría y salvó toda su cosecha."
+    }
+  },
+  "tutorials": {
+    "title": "Tutoriales Interactivos",
+    "subtitle": "Aprende técnicas de agricultura paso a paso",
+    "soilTesting": "Cómo Probar la Calidad del Suelo",
+    "plantingGuide": "Mejores Prácticas de Siembra",
+    "irrigationTips": "Métodos de Riego Inteligente",
+    "pestControl": "Control Natural de Plagas",
+    "harvesting": "Momento Óptimo de Cosecha"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "signIn": "Iniciar Sesión",
+    "signOut": "Cerrar Sesión",
+    "profile": "Perfil",
+    "settings": "Configuración",
+    "language": "Idioma",
+    "points": "Puntos",
+    "level": "Nivel",
+    "nextLevel": "Siguiente Nivel",
+    "progress": "Progreso",
+    "play": "Jugar",
+    "learn": "Aprender",
+    "share": "Compartir",
+    "continue": "Continuar",
+    "start": "Comenzar",
+    "complete": "Completar",
+    "congratulations": "¡Felicitaciones!",
+    "wellDone": "¡Bien hecho!",
+    "tryAgain": "Intentar de Nuevo",
+    "next": "Siguiente",
+    "previous": "Anterior",
+    "close": "Cerrar"
+  }
+}

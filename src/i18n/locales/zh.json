@@ -1,0 +1,107 @@
+{
+  "app": {
+    "title": "农业感知",
+    "subtitle": "NASA驱动的可持续农业洞察",
+    "welcome": "欢迎来到农业感知"
+  },
+  "navigation": {
+    "dashboard": "仪表板",
+    "advisory": "咨询",
+    "weather": "天气",
+    "crops": "作物预测",
+    "planner": "种植规划",
+    "community": "社区",
+    "diary": "日记",
+    "analytics": "分析",
+    "education": "教育",
+    "contact": "联系我们",
+    "games": "农场游戏",
+    "achievements": "成就"
+  },
+  "weather": {
+    "title": "NASA地球数据",
+    "soilMoisture": "土壤湿度",
+    "temperature": "温度",
+    "precipitation": "降水",
+    "lastUpdated": "最后更新",
+    "dataSource": "数据来源：NASA SMAP, MODIS, POWER APIs",
+    "hot": "炎热",
+    "warm": "温暖",
+    "cool": "凉爽",
+    "last7Days": "过去7天"
+  },
+  "games": {
+    "title": "农场游戏与学习",
+    "cropQuiz": "作物知识测验",
+    "weatherChallenge": "天气预测挑战",
+    "farmingSimulator": "农场模拟器",
+    "plantIdentification": "植物识别游戏",
+    "harvestCalculator": "收获计算器游戏"
+  },
+  "achievements": {
+    "title": "您的成就",
+    "firstLogin": "第一步",
+    "weatherExpert": "天气专家",
+    "cropMaster": "作物大师",
+    "communityHelper": "社区助手",
+    "dataAnalyst": "数据分析师",
+    "description": "完成任务解锁成就并获得积分！"
+  },
+  "funFacts": {
+    "title": "你知道吗？",
+    "fact1": "一株玉米可以有600粒玉米粒！",
+    "fact2": "西红柿实际上是水果，不是蔬菜！",
+    "fact3": "世界上最大的南瓜重达2600多磅！",
+    "fact4": "蜜蜂负责为世界1/3的粮食作物授粉！",
+    "fact5": "水稻在水中种植是因为它有助于控制杂草和害虫！"
+  },
+  "successStories": {
+    "title": "农民成功故事",
+    "subtitle": "真实农民，使用农业感知的真实结果",
+    "story1": {
+      "title": "增产30%",
+      "description": "农民Raj使用我们的天气预测优化种植计划，水稻产量增加了30%！"
+    },
+    "story2": {
+      "title": "节约水和金钱",
+      "description": "Maria使用我们的土壤湿度监测系统减少了25%的用水量。"
+    },
+    "story3": {
+      "title": "更好的作物健康",
+      "description": "Ahmed通过遵循我们的咨询警报预防了作物疾病，拯救了整个收成。"
+    }
+  },
+  "tutorials": {
+    "title": "互动教程",
+    "subtitle": "逐步学习农业技术",
+    "soilTesting": "如何测试土壤质量",
+    "plantingGuide": "最佳种植实践",
+    "irrigationTips": "智能灌溉方法",
+    "pestControl": "天然害虫控制",
+    "harvesting": "最佳收获时间"
+  },
+  "common": {
+    "loading": "加载中...",
+    "signIn": "登录",
+    "signOut": "登出",
+    "profile": "个人资料",
+    "settings": "设置",
+    "language": "语言",
+    "points": "积分",
+    "level": "等级",
+    "nextLevel": "下一等级",
+    "progress": "进度",
+    "play": "游戏",
+    "learn": "学习",
+    "share": "分享",
+    "continue": "继续",
+    "start": "开始",
+    "complete": "完成",
+    "congratulations": "恭喜！",
+    "wellDone": "做得好！",
+    "tryAgain": "重试",
+    "next": "下一个",
+    "previous": "上一个",
+    "close": "关闭"
+  }
+}
